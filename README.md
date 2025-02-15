@@ -97,3 +97,6 @@ The chatbot is pre-programmed with responses to the following questions/phrases:
 
 Contributions are welcome! Please feel free to submit pull requests with bug fixes, new features, or improvements to the documentation.
 
+![image](https://github.com/user-attachments/assets/878721ac-8945-4137-8075-8182ad98d1f3)
+
+![image](https://github.com/user-attachments/assets/49ac62dc-a319-4fda-b7cc-90912a181054)
