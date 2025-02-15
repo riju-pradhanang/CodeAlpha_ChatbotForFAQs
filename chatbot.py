@@ -10,7 +10,7 @@ from PyQt6.QtCore import Qt
 
 class Chatbot:
     def __init__(self):
-        self.nlp = spacy.load("en_core_web_sm")
+        self.nlp = spacy.load("en_core_web_lg")
         self.responses = {
             "hello": [
     "Hi there! How can I help you?",
@@ -24,7 +24,7 @@ class Chatbot:
     "I am your AI assistant.",
     "I'm your virtual assistant, here to help you."
   ],
-  "What is Artificial Intelligence (AI)?": [
+  "What is Artificial Intelligence?": [
     "AI is the science of creating computer systems that can perform tasks that normally require human intelligence. These tasks include understanding language, recognizing patterns, making decisions, and even learning from experience.",
     "Artificial Intelligence refers to technology that mimics human intelligence through learning, reasoning, and self-correction."
   ],
